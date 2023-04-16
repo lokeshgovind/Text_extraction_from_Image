@@ -19,8 +19,8 @@ Using this code we can extract the details of the digital card and helping the u
 
 2.Getting the necessary informations from the card using **regular expression**:
 
-     * Cardholder Name
-     * Cardholder Designation
+     * Cardholder Name 👍
+     * Cardholder Designation :+1:
      * Email
      * website link
      * Address

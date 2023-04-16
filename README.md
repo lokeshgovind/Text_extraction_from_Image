@@ -24,3 +24,4 @@ Using this code we can extract the details of the digital card and helping the u
       [^3]: email.
       [^4]: website link.
       [^5]: Address.
+Here is a simple footnote[^1].

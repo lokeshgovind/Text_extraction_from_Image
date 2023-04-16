@@ -34,7 +34,9 @@ data_list=[[company_name,name2,designation,email,website2,numbers2,address,pinco
 df=pd.DataFrame(data_list,columns=["Company Name","Cardholder Name","Designation",'Email',"Website","Contact Number","Address",'Pincode'])
 st.dataframe(df)
 ```
-6.### Inserting the card details in **mySQL** database:
+6.convert the image into binary data to store it in **mySQL**
+
+#### Inserting the card details in **mySQL** database:
 ```
 data = (company_name,name2,designation,email,website2,numbers2,address,pincode,image_data)
                     sql = "insert into image_details(company_name, name, designation, email, website, contact_number, address, pincode,image) VALUES (%s, %s, %s, %s, %s, %s, %s,%s,%s)"

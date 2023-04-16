@@ -18,10 +18,9 @@ Using this code we can extract the details of the digital card and helping the u
 1.Extracting the text data from image using the  `reader.readtext` function of easyocr.
 
 2.Getting the necessary informations from the card using **regular expression**:
-
-     + Cardholder Name
-     + Cardholder Designation
+     * Cardholder Name
+     * Cardholder Designation
      * Email
-     + website link
-     + Address
+     * website link
+     * Address
 

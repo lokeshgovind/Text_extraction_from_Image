@@ -6,7 +6,7 @@ Extracting text from the Image using easyOCR and Creating a user-friendly webpag
 
 #### Task:
 `import necessary modules`
-- easyocr
-* streamlit
-+ pandas
-+ re
+- [x] easyocr
+- [x] sreamlit
+- [x] pandas
+- [x] re
